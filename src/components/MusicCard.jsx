@@ -46,7 +46,7 @@ const MusicCard = (props) => {
             </div>
             <div className='slide__content'>
                 <h3>Song name</h3>
-                <small>Artis name</small>
+                <small>ِArtist name</small>
             </div>
         </div>
     )
